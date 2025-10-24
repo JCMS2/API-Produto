@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Comercial\\Desktop\\Z\u00E9\\C#\\Pratica\\PraticaAPI\\PraticaApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91110D82-1117-48C3-B9B7-F1DA8652DC6F}|PraticaApi\\PraticaApi.csproj|c:\\users\\comercial\\desktop\\z\u00E9\\c#\\pratica\\praticaapi\\praticaapi\\praticaapi\\classes\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91110D82-1117-48C3-B9B7-F1DA8652DC6F}|PraticaApi\\PraticaApi.csproj|solutionrelative:praticaapi\\classes\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91110D82-1117-48C3-B9B7-F1DA8652DC6F}|PraticaApi\\PraticaApi.csproj|c:\\users\\comercial\\desktop\\z\u00E9\\c#\\pratica\\praticaapi\\praticaapi\\praticaapi\\context\\produtocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91110D82-1117-48C3-B9B7-F1DA8652DC6F}|PraticaApi\\PraticaApi.csproj|solutionrelative:praticaapi\\context\\produtocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91110D82-1117-48C3-B9B7-F1DA8652DC6F}|PraticaApi\\PraticaApi.csproj|c:\\users\\comercial\\desktop\\z\u00E9\\c#\\pratica\\praticaapi\\praticaapi\\praticaapi\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91110D82-1117-48C3-B9B7-F1DA8652DC6F}|PraticaApi\\PraticaApi.csproj|solutionrelative:praticaapi\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91110D82-1117-48C3-B9B7-F1DA8652DC6F}|PraticaApi\\PraticaApi.csproj|c:\\users\\comercial\\desktop\\z\u00E9\\c#\\pratica\\praticaapi\\praticaapi\\praticaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91110D82-1117-48C3-B9B7-F1DA8652DC6F}|PraticaApi\\PraticaApi.csproj|solutionrelative:praticaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Comercial\\Desktop\\Z\u00E9\\C#\\Pratica\\PraticaAPI\\PraticaApi\\PraticaApi\\Classes\\Produto.cs",
+              "RelativeDocumentMoniker": "PraticaApi\\Classes\\Produto.cs",
+              "ToolTip": "C:\\Users\\Comercial\\Desktop\\Z\u00E9\\C#\\Pratica\\PraticaAPI\\PraticaApi\\PraticaApi\\Classes\\Produto.cs",
+              "RelativeToolTip": "PraticaApi\\Classes\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T18:40:50.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoContext.cs",
+              "DocumentMoniker": "C:\\Users\\Comercial\\Desktop\\Z\u00E9\\C#\\Pratica\\PraticaAPI\\PraticaApi\\PraticaApi\\Context\\ProdutoContext.cs",
+              "RelativeDocumentMoniker": "PraticaApi\\Context\\ProdutoContext.cs",
+              "ToolTip": "C:\\Users\\Comercial\\Desktop\\Z\u00E9\\C#\\Pratica\\PraticaAPI\\PraticaApi\\PraticaApi\\Context\\ProdutoContext.cs",
+              "RelativeToolTip": "PraticaApi\\Context\\ProdutoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T18:40:46.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Comercial\\Desktop\\Z\u00E9\\C#\\Pratica\\PraticaAPI\\PraticaApi\\PraticaApi\\Program.cs",
+              "RelativeDocumentMoniker": "PraticaApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Comercial\\Desktop\\Z\u00E9\\C#\\Pratica\\PraticaAPI\\PraticaApi\\PraticaApi\\Program.cs",
+              "RelativeToolTip": "PraticaApi\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T18:40:37.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\Comercial\\Desktop\\Z\u00E9\\C#\\Pratica\\PraticaAPI\\PraticaApi\\PraticaApi\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "PraticaApi\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\Comercial\\Desktop\\Z\u00E9\\C#\\Pratica\\PraticaAPI\\PraticaApi\\PraticaApi\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "PraticaApi\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAqwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T18:09:45.486Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
